@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Topeko. 👋
 
-<!--
-**TopekoDev/topekodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a hobbyist fullstack web developer.
 
-Here are some ideas to get you started:
+I like to build and design small projects while learning more about web development. I believe in open source and all of my personal projects can be found here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡️ Technologies
+* HTML, CSS, JavaScript
+* VueJS & NuxtJS
+* NodeJS & ExpressJS
+* MongoDB
+
+🌍 [My website](https://topekz.com)
