@@ -2,12 +2,12 @@
 
 ## I'm a hobbyist fullstack web developer.
 
-I like to build and design small projects while learning more about web development. I believe in free (as in freedom) and open source software and all of my personal projects can be found here.
+I enjoy building small projects and learning more about web development as well as other things. I believe in free (as in freedom) and open source software.
 
 ### ⚡️ Technologies
 * HTML, CSS, JavaScript
-* VueJS & NuxtJS
+* VueJS
 * NodeJS & ExpressJS
 * MongoDB
 
-🌍 [My website](https://topekz.com)
+🌍 [My website]()
